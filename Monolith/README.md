@@ -36,20 +36,20 @@ npm start
 
   <img width="436" height="444" alt="image" src="https://github.com/user-attachments/assets/125b5c48-f3b8-4928-92d9-894f76ef6af2" />
 
-  - Change status Todo/ In Progress/ Done
+- Change status Todo/ In Progress/ Done
 
-    There's 2 buttons (In Process / Done) once to press one of them it'll change to that status.
+  There's 2 buttons (In Process / Done) once to press one of them it'll change to that status.
 
-    <img width="437" height="259" alt="image" src="https://github.com/user-attachments/assets/a35f288b-c73d-46bb-9c36-9671a28a7cc7" />
+  <img width="437" height="259" alt="image" src="https://github.com/user-attachments/assets/a35f288b-c73d-46bb-9c36-9671a28a7cc7" />
 
-    After
+  After
 
-    <img width="437" height="259" alt="image" src="https://github.com/user-attachments/assets/7add503e-77be-4a4a-a18b-3a42a7fd085b" />
+  <img width="437" height="259" alt="image" src="https://github.com/user-attachments/assets/7add503e-77be-4a4a-a18b-3a42a7fd085b" />
 
-  - Delete Task
+- Delete Task
 
-    There's Delete button on each taskbox once you press it that task should be delete.
+  There's Delete button on each taskbox once you press it that task should be delete.
 
-    <img width="454" height="436" alt="image" src="https://github.com/user-attachments/assets/f161a30c-5c7d-455d-9248-f8c1b5144ad4" />
+  <img width="454" height="436" alt="image" src="https://github.com/user-attachments/assets/f161a30c-5c7d-455d-9248-f8c1b5144ad4" />
 
-    <img width="321" height="188" alt="image" src="https://github.com/user-attachments/assets/6fd2b20e-6ebc-42ed-8f30-eb9cd3663103" />
+  <img width="321" height="188" alt="image" src="https://github.com/user-attachments/assets/6fd2b20e-6ebc-42ed-8f30-eb9cd3663103" />
